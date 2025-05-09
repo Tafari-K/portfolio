@@ -42,6 +42,6 @@ h2,{
     background-image: url("/assets/images/background.webp");
     background-size: cover;
     background-position: 50% 70%;
-    min-height: 500px;
+    height: 500px;
     padding: 5% 7%;
 }
