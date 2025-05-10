@@ -26,6 +26,19 @@ h2,{
 .sharp-corners * {
     border-radius: 0;
 }
+
+/* Buttons */
+
+.custom-button {
+    background-color: #1f7798; /* mid-blue */
+    border: #1f7798; /* mid-blue */
+}
+
+.custom-button:hover {
+    background-color: #1d6d8a;
+    border: #1d6d8a;
+}
+
 /* About */
 #about {
     background-color: white;
